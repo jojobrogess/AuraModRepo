@@ -1,6 +1,0 @@
-[submodule "skin.auramod"]
-	path = skin.auramod
-	url = https://github.com/jojobrogess/skin.auramod
-[submodule "script.colorbox"]
-	path = script.colorbox
-	url = https://github.com/BADMS/script.colorbox
