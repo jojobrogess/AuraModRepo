@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="AuraModRepo" name="AuraMod Repo" version="1.0" provider-name="jojobrogess">
+    <extension point="xbmc.addon.repository" name="AuraMod Repo">
+        <dir minversion="19.0" maxversion="19.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/jojobrogess/AuraModRepo/master/repo/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jojobrogess/AuraModRepo/master/repo/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jojobrogess/AuraModRepo/master/repo/matrix/zips/</datadir>
+        </dir>
+    </extension>
+        <extension point="xbmc.addon.repository" name="AuraMod Repo">
+        <dir minversion="20.0" maxversion="20.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/jojobrogess/AuraModRepo/master/repo/nexus/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jojobrogess/AuraModRepo/master/repo/nexus/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jojobrogess/AuraModRepo/master/repo/nexus/zips/</datadir>
+        </dir>
+    </extension>
+        <extension point="xbmc.addon.repository" name="AuraMod Repo">
+        <dir minversion="21.0" maxversion="21.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/jojobrogess/AuraModRepo/master/repo/omega/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jojobrogess/AuraModRepo/master/repo/omega/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jojobrogess/AuraModRepo/master/repo/omega/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>AuraMod Repo</summary>
+        <description>An All in One Repo for AuraMod v19+</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
