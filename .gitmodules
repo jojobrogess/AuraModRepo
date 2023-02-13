@@ -1,0 +1,6 @@
+[submodule "repo/matrix/skin.auramod"]
+	path = repo/matrix/skin.auramod
+	url = https://github.com/jojobrogess/skin.auramod
+[submodule "repo/matrix/script.colorbox"]
+	path = repo/matrix/script.colorbox
+	url = https://github.com/BADMS/script.colorbox
