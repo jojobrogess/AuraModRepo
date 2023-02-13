@@ -4,3 +4,15 @@
 [submodule "repo/matrix/script.colorbox"]
 	path = repo/matrix/script.colorbox
 	url = https://github.com/BADMS/script.colorbox
+[submodule "repo/nexus/skin.auramod"]
+	path = repo/nexus/skin.auramod
+	url = https://github.com/jojobrogess/skin.auramod
+[submodule "repo/omega/skin.auramod"]
+	path = repo/omega/skin.auramod
+	url = https://github.com/jojobrogess/skin.auramod
+[submodule "repo/nexus/script.colorbox"]
+	path = repo/nexus/script.colorbox
+	url = https://github.com/BADMS/script.colorbox
+[submodule "repo/omega/script.colorbox"]
+	path = repo/omega/script.colorbox
+	url = https://github.com/BADMS/script.colorbox
