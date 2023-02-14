@@ -16,3 +16,9 @@
 [submodule "repo/omega/script.colorbox"]
 	path = repo/omega/script.colorbox
 	url = https://github.com/BADMS/script.colorbox
+[submodule "repo/matrix/script.skinshortcuts"]
+	path = repo/matrix/script.skinshortcuts
+	url = https://github.com/mikesilvo164/script.skinshortcuts
+[submodule "repo/nexus/script.skinshortcuts"]
+	path = repo/nexus/script.skinshortcuts
+	url = https://github.com/mikesilvo164/script.skinshortcuts
